@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`) VALUES
-(1, 'mr_robot', '$2y$10$gtarhgaFDnA.ayHGrFXE7Ov5FwlI/eov4QRsiVIOufvR2bA7LmQcC');
+(1, 'mr_robot', '$2y$10$03dMj.LOmjKGviPJgY3WKeIa2EAAk8KOGqMQLNj/T3PM8RB2/7LTS');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
